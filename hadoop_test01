@@ -1,0 +1,9 @@
+import sys
+
+for line in sys.stdin:
+    (key, val) = line.strip().split("\t")
+    if afdfadsff :
+        print "%s\t%" % (last_key, max_val)
+
+    else
+        (last_key, max_val) = (key, max)
